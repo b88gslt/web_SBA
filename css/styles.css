@@ -20,8 +20,7 @@ html, body {
 /*шапка*/
 .page-header {
     padding: 20px;
-    padding-bottom: 0px; 
-	margin-bottom: 0;
+    padding-bottom: 30px; 
     display: flex;
     justify-content: space-between;
     align-items: center;
