@@ -203,15 +203,6 @@ html, body {
     }
 }
 
-/*футер */
-footer {
-    background: #222;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 20px;
-}
-
 /*таблица*/
 .table {
     width: 100%;
